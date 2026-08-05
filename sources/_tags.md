@@ -12,4 +12,10 @@ only one item is a candidate for removal — `/review` flags these.
 
 ## Current tags
 
+- agent-factory-pattern
+- harness
+- sdlc
+- verification
+- use-case
+
 <!-- Add deliberately. A vocabulary of 30 good tags beats 300 accidental ones. -->
