@@ -12,7 +12,7 @@ url:
 lang:            # omit if English
 
 verified: false  # true once bibliographic details confirmed against a real record
-holdings: []     # print | kindle | audible | pdf | epub | none
+holdings: []     # print | kindle | audible | pdf | epub | link | none
 file:            # filename in library/, if any
 
 people: []       # [[x]], [[y]] — thinkers
