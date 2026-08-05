@@ -24,7 +24,7 @@ added: 2026-08-05
 ---
 
 ## Why it matters to me
-real example of what can happen when you use AI for sw systems.
+real example of what can happen when you use AI for sw systems. it suggests that code is post hoc artifact and that a architectural model can serve to help BOTH AI and human reason about the code and improve it such as a mediator - they are not calling it specifically mutual mind. The role of a model.
 
 ## Notes
 
