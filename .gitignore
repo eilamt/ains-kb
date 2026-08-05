@@ -1,0 +1,18 @@
+# Binaries live on disk, not in git
+library/**
+!library/.gitkeep
+
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/plugins/*/
+!.obsidian/plugins/*/data.json
+.trash/
+
+# Scans are large; keep transcripts in git, images out
+inbox/scans/**
+!inbox/scans/.gitkeep
+
+.DS_Store
