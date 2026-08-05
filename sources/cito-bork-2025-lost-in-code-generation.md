@@ -30,3 +30,12 @@ real example of what can happen when you use AI for sw systems.
 
 ## Quotes
 <!-- Always blockquoted, always with a locator. -->
+
+> We argue that this
+> inversion invites a rethinking of the role of models. Rather than
+> being abandoned as relics of a pre-generative era, models can be
+> repositioned as post-hoc artifacts. By applying reverse engineer-
+> ing techniques, it is possible to recover structural and behavioral
+> abstractions from AI-generated systems.
+
+(p. ?)
