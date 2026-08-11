@@ -14,7 +14,9 @@ only one item is a candidate for removal — `/review` flags these.
 
 - agent-factory-pattern
 - harness
+- mdd
 - sdlc
+- tdd
 - validation
 - verification
 - use-case
