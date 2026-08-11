@@ -13,6 +13,7 @@ only one item is a candidate for removal — `/review` flags these.
 ## Current tags
 
 - agent-factory-pattern
+- genai-failure
 - harness
 - mdd
 - sdlc
