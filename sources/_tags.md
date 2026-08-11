@@ -15,6 +15,7 @@ only one item is a candidate for removal — `/review` flags these.
 - agent-factory-pattern
 - genai-failure
 - harness
+- human-ai-collaboration
 - mdd
 - sdlc
 - tdd
