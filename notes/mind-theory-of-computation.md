@@ -42,3 +42,4 @@ I am questioning what of it is relevant or true with LLMs and relevant to progra
 
 ## Connects to
 - [[sources/alenezi-2026-human-ai-collaboration-se]]
+- [[sources/minsky-1965-matter-mind-models]]
