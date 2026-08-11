@@ -17,6 +17,7 @@ only one item is a candidate for removal — `/review` flags these.
 - harness
 - human-ai-collaboration
 - mdd
+- mt
 - sdd
 - sdlc
 - tdd
