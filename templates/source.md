@@ -4,7 +4,7 @@ title:
 citekey:
 authors: []
 year:
-kind:            # book | article | paper | lecture | talk | podcast
+kind:            # book | article | paper | lecture | talk | podcast | blog
 container:
 publisher:
 doi:
