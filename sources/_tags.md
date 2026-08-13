@@ -14,6 +14,7 @@ only one item is a candidate for removal — `/review` flags these.
 
 - ains-concept
 - agent-factory-pattern
+- ai-failure
 - genai-failure
 - harness
 - human-ai-collaboration
