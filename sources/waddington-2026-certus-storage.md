@@ -12,8 +12,8 @@ url: https://ai-native-systems-research.github.io/ai-native-systems-research/blo
 lang:
 
 verified: true
-holdings: [link]
-file:
+holdings: [link, pdf]
+file: Certus__Blog_June_2026.pdf
 
 people: []
 tags: [use-case, sdlc]
