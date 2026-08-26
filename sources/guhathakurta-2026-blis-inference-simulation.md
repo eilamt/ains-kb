@@ -28,5 +28,18 @@ blis simulator for llm-d.
 
 ## Notes
 
+Claude: Note on provenance — the version on the AI Native Systems Research blog is a ~290-word cross-post stub; the full text is on the BLIS blog at the frontmatter URL and is not in the GitHub Pages source repo.
+
+The substantive content available is the argument about *which couplings must be modeled*, and it is the part a systems audience will care about. Three layers:
+- **Engine level.** Batches process together, so all requests wait for the slowest operation. KV-cache fills trigger preemptions; long prompts stall short decodes.
+- **Cluster level.** Routing policies operate on *stale* cache state; admission control gates overload; prefill/decode disaggregation trades utilization for latency.
+- **Control plane.** Autoscalers react to lagged metrics, producing oscillation.
+
+The consequence when these couplings go unmodeled is quantified as an illustration: a back-of-the-envelope model predicting 50 ms time-to-first-token against 200 ms measured in production. That 4x gap is the justification for building a discrete-event simulator rather than an analytical model, and it is the cleanest one-line answer to "why not just estimate it?"
+
+Related and worth cataloguing separately: the August 2026 post on latency modeling reports that, fit once on H100, BLIS predicts held-out configurations across six models and three GPU types at 6.7% median end-to-end error, roughly 200x faster than running them for real.
+
+<!-- TE: full text needs fetching from the BLIS blog or a PDF drop -->
+
 ## Quotes
 <!-- Always blockquoted, always with a locator. -->

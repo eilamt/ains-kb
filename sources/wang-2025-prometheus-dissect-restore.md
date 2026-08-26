@@ -29,6 +29,8 @@ added: 2026-08-11
 
 TE: decomposition and recomposition to help formal verification - in conjunction with modular SWE techniques.
 
+See [[notes/the-self-proving-problem]], [[notes/why-modularity-is-important]].
+
 ## Quotes
 <!-- Always blockquoted, always with a locator. -->
 

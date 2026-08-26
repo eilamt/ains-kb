@@ -28,5 +28,7 @@ storage use case.
 
 ## Notes
 
+See [[notes/specification-as-the-durable-artifact]], [[notes/why-modularity-is-important]].
+
 ## Quotes
 <!-- Always blockquoted, always with a locator. -->

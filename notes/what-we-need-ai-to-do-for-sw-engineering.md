@@ -40,5 +40,4 @@ The big question is the new SDLC and how to adopt your team.
 <!-- What complicates this? What would a serious objector say? -->
 
 ## Connects to
-<!-- no notes in repo yet to link to -->
-- [[ ]]
+- [[specification-as-the-durable-artifact]]

@@ -31,6 +31,8 @@ Claude: reframes it cleanly: Naur's theory-building argument holds that the dura
 
 TE: This is the best explanation of why we are moving to spec-driven or intent-driven programming.
 
+See [[notes/specification-as-the-durable-artifact]].
+
 ## Quotes
 <!-- Always blockquoted, always with a locator. -->
 

@@ -28,6 +28,8 @@ real example of what can happen when you use AI for sw systems. it suggests that
 
 ## Notes
 
+See [[notes/specification-as-the-durable-artifact]].
+
 ## Quotes
 <!-- Always blockquoted, always with a locator. -->
 

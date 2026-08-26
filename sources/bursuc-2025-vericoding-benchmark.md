@@ -31,6 +31,8 @@ Claude: Explicitly contrasts vericoding — generating formally verified code fr
 
 TE: VERICODING is coined (against vibe-coding).
 
+See [[notes/the-self-proving-problem]].
+
 ## Quotes
 <!-- Always blockquoted, always with a locator. -->
 

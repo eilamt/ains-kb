@@ -29,6 +29,8 @@ added: 2026-08-11
 
 Claude: proof generation is the major bottleneck for end-to-end verifiable code generation, and writing sound and complete postconditions is generally harder than preconditions. The spec-hackability caution is important and under-discussed. CLEVER's authors note that FVAPPS used an LLM to auto-create formal specifications for 4,715 problems, and that those specifications are often easily hackable, with verification correctness guarded by a layer of test cases. If the AI writes the spec and the AI writes the code, the verifier certifies agreement, not correctness.
 
+See [[notes/the-self-proving-problem]].
+
 ## Quotes
 <!-- Always blockquoted, always with a locator. -->
 

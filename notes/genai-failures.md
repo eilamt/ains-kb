@@ -26,3 +26,4 @@ We need to be careful to distinguish between real inhernt issues in AI generatin
 - [[sources/he-miller-2026-speed-cost-quality]]
 - [[sources/meng-jackson-2025-legible-software]]
 - [[sources/cervantes-kazman-2026-llm-architecture-code-generation]]
+- [[the-self-proving-problem]]

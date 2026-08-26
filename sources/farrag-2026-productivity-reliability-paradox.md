@@ -31,6 +31,8 @@ Claude: grounds SDD in a specific failure mode: the non-determinism of LLM gener
 
 TE: great explanation for why we need specification - it is a context window problem. Also explains the apparent paradox where developers report productivity but actually code dependability degrades!
 
+See [[notes/specification-as-the-durable-artifact]].
+
 ## Quotes
 <!-- Always blockquoted, always with a locator. -->
 
