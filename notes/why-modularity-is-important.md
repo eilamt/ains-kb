@@ -6,7 +6,7 @@ people: []
 missions: [keynote]
 status: developing
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-26
 ---
 
 why modularity is important and what is the state of the field and open questions.
@@ -23,6 +23,10 @@ the AI code which is generated is NOT modular, it increases in complexity. But w
 - [[sources/meng-jackson-2025-legible-software]]
 - [[sources/he-miller-2026-speed-cost-quality]]
 - [[sources/cervantes-kazman-2026-llm-architecture-code-generation]]
+- [[sources/waddington-2026-certus-storage]]
+- [[sources/anon-2026-certus-review]]
+- [[sources/wang-2025-prometheus-dissect-restore]]
+- [[genai-failures]]
 
 ## Provenance
 
