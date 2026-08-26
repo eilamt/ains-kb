@@ -16,7 +16,7 @@ holdings: [link]
 file:
 
 people: []
-tags: [tdd, sdlc]
+tags: [sdlc]
 missions: [keynote]
 
 status: unread

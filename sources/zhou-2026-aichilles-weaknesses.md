@@ -16,7 +16,7 @@ holdings: [link]
 file:
 
 people: []
-tags: [ai-failure, validation]
+tags: [genai-failure, validation]
 missions: [keynote]
 
 status: unread
