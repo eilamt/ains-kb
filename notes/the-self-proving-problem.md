@@ -8,7 +8,7 @@ status: seed
 created: 2026-08-26
 updated: 2026-08-26
 ---
-
+There is a potential issue if we use the same AI agent to create the specification and the proof. 
 <!-- TODO: state this idea in one sentence, your words -->
 
 ## Elaboration

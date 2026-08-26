@@ -8,13 +8,14 @@ status: seed
 created: 2026-08-26
 updated: 2026-08-26
 ---
-
-<!-- TODO: state this idea in one sentence, your words -->
-
+Specification needs to be the authoritative artifact.  
+specification and code need to always co-evolve and kept in sync. 
 ## Elaboration
 
+The key issue is that spec and code need to be kept in sync. This is hard specifically in brown field where spec needs to be created based on existing code. 
 ## Tensions
-<!-- What complicates this? What would a serious objector say? -->
+objections will say that the code is the only thing that matters for AI, but the specification is needed for multiple reasons: 1. AI buffer size issue 2. limit scope of change and allow parallelism 3. cognition gap  etc. 
+Also, this does not mean we are going BACK to waterfall. We are keeping it agile by continuous synchronization of spec and code - what was manually taxing before, now with AI is actually possible. 
 
 ## Connects to
 - [[what-we-need-ai-to-do-for-sw-engineering]]
