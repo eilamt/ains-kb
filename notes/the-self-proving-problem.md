@@ -9,12 +9,14 @@ created: 2026-08-26
 updated: 2026-08-26
 ---
 There is a potential issue if we use the same AI agent to create the specification and the proof. 
-<!-- TODO: state this idea in one sentence, your words -->
+
 
 ## Elaboration
 
+The whole chain from spec through abstract code to proof harness is problematic, and this  holds even across different agents if they work from the same spec... 
+
 ## Tensions
-<!-- What complicates this? What would a serious objector say? -->
+
 
 ## Connects to
 - [[genai-failures]]

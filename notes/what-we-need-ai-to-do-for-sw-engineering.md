@@ -9,7 +9,7 @@ created: 2026-08-05
 updated: 2026-08-05
 ---
 The question is how to use AI affectively for SW engineering. What is the new SDLC and how to effectively work with AI. 
-<!-- TODO: state this idea in one sentence, your words -->
+
 
 ## Elaboration
 

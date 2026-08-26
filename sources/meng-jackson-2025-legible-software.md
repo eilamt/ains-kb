@@ -33,5 +33,8 @@ ery similar to approach in Certus but goes a step further with the synchronizati
 
 ## Notes
 
+See [[why-modularity-is-important]] — the Certus comparison above is quoted
+there, in that note's `## Provenance` section.
+
 ## Quotes
 <!-- Always blockquoted, always with a locator. -->
