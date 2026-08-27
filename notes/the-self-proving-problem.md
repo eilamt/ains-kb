@@ -17,6 +17,7 @@ The whole chain from spec through abstract code to proof harness is problematic,
 
 ## Tensions
 
+The mitigation has moved from aspiration to practice. Certus employs a different coding agent (Codex) to independently cross-check translation source against target. That cross-checker was itself validated by a systematic method of poisoning code and specifications to create deliberate source/target mismatches, then confirming all poison items were identified. This narrows the problem without dissolving it — the cross-checker is still a language model, and the guarantee it provides is weaker than an independent human verification would be.
 
 ## Connects to
 - [[genai-failures]]
@@ -24,6 +25,7 @@ The whole chain from spec through abstract code to proof harness is problematic,
 - [[sources/ye-2025-verina-verifiable-code-generation]]
 - [[sources/bursuc-2025-vericoding-benchmark]]
 - [[sources/wang-2025-prometheus-dissect-restore]]
+- [[sources/waddington-2026-holding-wild-elephant]]
 
 ## Provenance
 
@@ -53,3 +55,9 @@ provenance: raw/claude-exports/2026-08-26-keynote-scoping.md
 > critically.
 
 — Tamar, on review of triage `triage-2026-08-26-certus-modularity-sdlc-2.md`
+
+> Without assurance of translation, the model checkers are verifying code that does not
+> exist! Yet more, we can't ask an agent to check itself and expect it to have newly
+> found levels of oversight or correctness (well, we can, but only so far).
+
+— `sources/waddington-2026-holding-wild-elephant` §3.5.1

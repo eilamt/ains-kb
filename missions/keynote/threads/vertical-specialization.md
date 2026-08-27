@@ -47,16 +47,15 @@ Certus examplar of two things: the concept and opportunity of domain specificity
    → [[why-modularity-is-important]], [[sources/waddington-2026-certus-storage]] §5.2
 
 5. **Verification is generated alongside the code, from the same spec.**
-   Three tools as a pipeline, not alternatives: Spin for concurrency and protocol, Kani
-   for bit-precise Rust safety, Creusot for functional correctness against the spec.
-   → [[sources/anon-2026-certus-review]] slides 20–23
+   Four channels routed by property type: (A) functional correctness — abstract code for Creusot; (B) bounded model checking — instrumented harnesses for Kani and Loom; (C) concurrency — a Promela model for Spin; (D) targeted runtime tests where proof is out of reach.
+   → [[sources/anon-2026-certus-review]] slides 20–23, [[sources/waddington-2026-holding-wild-elephant]] §3.5
 
 6. **Which inverts the usual objection.** A generated system carrying certificates at
    three levels is more trustworthy than a hand-written system carrying none.
    → [[sources/waddington-2026-certus-storage]] §5.3
 
 7. **But the chain is self-proving, and this must be said aloud.**
-   → [[the-self-proving-problem]]
+   → [[the-self-proving-problem]], [[sources/waddington-2026-holding-wild-elephant]] §3.5.1
 
 <!-- SCOPE DECISION (2026-08-26): the optimization half of Certus — Optimization Agent,
      knowledge graph, pattern library, the seven-framework bake-off — is OUT. Certus is
@@ -66,7 +65,9 @@ Certus examplar of two things: the concept and opportunity of domain specificity
 ## Open problems
 
 - **The self-proving chain.** Spec, code, and proof from one source certifies agreement,
-  not correctness. Adversarial-LLM validation is proposed, not done.
+  not correctness. Adversarial cross-checking by a different agent (Codex) is now
+  implemented and validated by systematic poisoning; it narrows the problem without
+  dissolving it — the cross-checker is still a language model.
 - **Two different headline numbers.** 18.3× writes is a component microbenchmark; 3× is
   end-to-end vLLM. They are not interchangeable. → [[sources/anon-2026-certus-review]]
 - **LLM bias toward well-documented patterns** over niche-but-superior ones — a real
@@ -77,6 +78,7 @@ Certus examplar of two things: the concept and opportunity of domain specificity
 
 
 ## Reading
+- [[sources/waddington-2026-holding-wild-elephant]]
 - [[sources/waddington-2026-certus-storage]]
 - [[sources/anon-2026-certus-review]]
 - [[sources/meng-jackson-2025-legible-software]]

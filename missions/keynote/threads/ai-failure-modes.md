@@ -49,7 +49,7 @@ In order to make AINS a reality we need to undersand what changes when AI genera
    Reviewers cannot allocate attention by segment-level risk because the agent gives no
    signal about its own confidence — the rational response to an author presenting
    heterogeneous-quality output with homogeneous confidence is to read every line.
-   → [[sources/gullstrand-2026-trust-calibrated-code-review]]
+   → [[sources/gullstrand-2026-trust-calibrated-code-review]], [[enforcement-over-self-reporting]]
 
 5. **So verification becomes the rate-limiting activity.**
    Syntactically correct but semantically flawed, subtly insecure, or inconsistent with

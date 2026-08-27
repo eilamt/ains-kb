@@ -46,7 +46,7 @@ this thread evolves one that does — brownfield, telemetry-driven, changes goin
    the next iteration, and — the central bet — compliance verified externally by schema
    validation rather than self-reported. This is the direct answer to move 4 of
    [[ai-failure-modes]].
-   → [[sources/anon-2027-nous-scientific-experimentation]]
+   → [[sources/anon-2027-nous-scientific-experimentation]], [[enforcement-over-self-reporting]]
 
 5. **It produced upstream contributions, twice.**
    Probabilistic admitter: 37–98% P90 TTFT reduction for critical requests, validated on
