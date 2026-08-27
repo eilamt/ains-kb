@@ -23,6 +23,7 @@ Also, this does not mean we are going BACK to waterfall. We are keeping it agile
 - [[sources/waddington-2026-certus-storage]]
 - [[sources/cito-bork-2025-lost-in-code-generation]]
 - [[sources/farrag-2026-productivity-reliability-paradox]]
+- [[mind-theory-of-computation]]
 
 ## Provenance
 

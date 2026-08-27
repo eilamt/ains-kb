@@ -36,6 +36,8 @@ The most psychologically oriented Minsky work from that era is his 1965 paper "M
 - The psychological vision of minds collaborating → Minsky, "Matter, Mind and Models" (1965, IFIP Congress)
 - The "multi-person construction of multi-version programs" → attributed to Randell, likely from his 1979 ICSE retrospective on the 1967-68 NATO software engineering discussions
 
+`sources/waddington-2026-holding-wild-elephant` applies Theory of Mind from cognitive science to developer–agent collaboration: without a shared representational layer, intent and capability cannot connect, producing code that satisfies the literal request while violating unstated assumptions. Spec-driven development is framed there as the first step toward building that mutual mind deliberately.
+
 ## Tensions
 
 I am questioning what of it is relevant or true with LLMs and relevant to programming. need to investigate.
@@ -43,3 +45,5 @@ I am questioning what of it is relevant or true with LLMs and relevant to progra
 ## Connects to
 - [[sources/alenezi-2026-human-ai-collaboration-se]]
 - [[sources/minsky-1965-matter-mind-models]]
+- [[sources/waddington-2026-holding-wild-elephant]]
+- [[specification-as-the-durable-artifact]]
