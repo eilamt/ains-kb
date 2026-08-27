@@ -4,7 +4,7 @@ title: Keynote
 missions: [keynote]
 status: active
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-27
 ---
 
 ## Goal
@@ -26,10 +26,11 @@ write a keynote about AINS for a systems conference. I want to describe our visi
 - Optional Addendum: how I worked with AI on THIS presentation: KB methodology 
 
 ## Threads
-## Threads -
-
-[[productivity-paradox]] — how do we measure productivity, and are we more productive with AI? - [[ai-failure-modes]] — how does AI-generated code fail differently, and what does that demand of validation? 
-[[the-new-sdlc]] — how must the lifecycle be reinvented for effective collaboration with AI? - [[vertical-specialization]] — when code is cheap, when and why do we hyper-specialize? (Certus) - [[self-evolving-systems]] — can AI be the primary agent in constructing and evolving systems? (llm-d)
-- [[ ]]
+- [[productivity-paradox]] — how do we measure productivity, and are we more productive with AI?
+- [[ai-failure-modes]] — how does AI-generated code fail differently, and what does that demand of validation?
+- [[two-communities]] — why do the systems and SE communities reach opposite conclusions?
+- [[the-new-sdlc]] — how must the lifecycle be reinvented for effective collaboration with AI?
+- [[vertical-specialization]] — when code is cheap, when and why do we hyper-specialize? (Certus)
+- [[self-evolving-systems]] — can AI be the primary agent in constructing and evolving systems? (llm-d)
 
 ## Open questions
