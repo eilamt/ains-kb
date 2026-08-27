@@ -29,34 +29,7 @@ We identify the challenges, and we work to close these gaps. We need to know how
 ## Moves in the argument
 
 1. **Velocity rises sharply and transiently; quality degrades persistently.**
-   Difference-in-differences against matched controls — the cleanest causal design
-   available. ~28.6% more lines added, peaking at 281% in month one; 30.3% more static
-   analysis warnings; 41.6% higher complexity, persisting after the velocity gain
-   dissipates. Accumulated debt then reduces future velocity, making it self-reinforcing.
-   → [[sources/he-miller-2026-speed-cost-quality]]
-
-2. **The debt is real and compounding at production volume.**
-   Code smells are the dominant category — they break nothing immediately, so they pass
-   review, but cumulative surviving AI-introduced issues exceeded 100k by February 2026.
-   → [[sources/liu-2026-debt-behind-ai-boom]]
-
-3. **Part of the cost is not in the code at all.**
-   Comprehension debt resides in team cognition and shared mental models, not artifacts,
-   so no static analysis tool can detect it. The reinforcing loop: verifying GenAI output
-   requires domain knowledge, but people reach for GenAI precisely because they lack it.
-   → [[sources/ahmad-2026-comprehension-debt-genai]]
-
-4. **There is a mechanism, not just a correlation.**
-   Non-deterministic generation against deterministic dependability requirements.
-   Moderated by task abstraction level, codebase maturity (greenfield benefits, mature
-   codebases incur verification overhead exceeding generation savings), and developer
-   experience (novices gain 30–40% with measurable skill atrophy; seniors pay a
-   verification tax that can negate the speedup).
-   → [[sources/farrag-2026-productivity-reliability-paradox]]
-
-5. **What we actually need is not more code.**
-   → [[what-we-need-ai-to-do-for-sw-engineering]] — brownfield, complex, no slop,
-   joint mental model.
+   → [[the-productivity-paradox]] — the evidence and the mechanism.
 
 
 
