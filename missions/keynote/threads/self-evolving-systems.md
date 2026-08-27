@@ -1,10 +1,15 @@
 ---
 type: thread
 title: Self-evolving systems — llm-d
-question: <DRAFT — replace with your thesis in one line> Is release the beginning of the lifecycle rather than the end — can a deployed system observe its own behaviour, hypothesize improvements, validate them, and ship them without a human in the loop for each one?
-tags: [use-case, ains-concept, harness, validation]
+question: can AI be the primary agent in constructing and evolving systems, and what is the opportunity space that opens? can a deployed system observe its own behaviour, hypothesize improvements, validate them, and ship them without a human in the loop for each one?
+tags:
+  - use-case
+  - ains-concept
+  - harness
+  - validation
 people: []
-missions: [keynote]
+missions:
+  - keynote
 status: open
 created: 2026-08-26
 updated: 2026-08-26
