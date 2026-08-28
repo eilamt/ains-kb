@@ -10,8 +10,11 @@ publisher:
 doi:
 url: https://arxiv.org/abs/2510.06189
 lang:
+origin:      external
+project:
+clearance:   public
 
-verified: false
+verified: true
 holdings: [link]
 file:
 

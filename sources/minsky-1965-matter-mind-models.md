@@ -10,6 +10,9 @@ publisher:
 doi:
 url: https://www.oocities.org/rr_andres/docs/Minsky_Mind_Matter_Models.pdf
 lang:
+origin:      external
+project:
+clearance:   public
 
 verified: true
 holdings: [link]

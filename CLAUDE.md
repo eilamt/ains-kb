@@ -30,6 +30,8 @@ before acting.
 | Path | Contents | Who writes |
 |---|---|---|
 | `missions/` | The things being made. One folder per mission. | Owner |
+| `missions/<name>/assets/` | Artifacts the mission produces — generator scripts, figures, decks. | Both |
+| `missions/<name>/threads/` | Arguments in development. One question per file. | Owner |
 | `notes/` | Atomic notes — one concept per file, her words. | Owner |
 | `people/` | Thinkers. One file per person. | Owner (you may add backlinks) |
 | `sources/` | Bibliographic catalog. One file per work. | You, then reviewed |
@@ -69,6 +71,20 @@ Hebrew. Never translate silently. Set `lang: he` in frontmatter where relevant.
 
 **Quotes.** Verbatim text from a source is always in a blockquote, always with
 a page or locator. Never blend a source's wording into a note's prose.
+
+**Source provenance fields.** Every source carries three fields after `lang:`:
+
+- `origin` — `own` (AI-Native Systems team, IBM Research), `joint` (collaboration
+  with an outside group or external co-authors), `external` (everything else).
+- `project` — the internal project name (`certus`, `nous`, `llm-d`, `blis`,
+  `spotlights`, `kernels`, `ains`). Set only for `own` and `joint` sources; leave
+  blank for `external`. **Important:** several sources sharing the same `project`
+  value are parts of one body of work, not independent corroboration. A note or
+  thread that rests entirely on a single project value should name that dependency
+  explicitly rather than citing the sources as if they were independent.
+- `clearance` — `public` (publishable) or `internal` (IBM Confidential / IBM
+  Proprietary — do not quote slide text or internal figures in a public talk without
+  checking).
 
 ---
 

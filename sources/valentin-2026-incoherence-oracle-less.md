@@ -10,6 +10,9 @@ publisher: AAAI
 doi: https://doi.org/10.1609/aaai.v40i39.40616
 url: https://ojs.aaai.org/index.php/AAAI/article/view/40616
 lang:
+origin:      external
+project:
+clearance:   public
 
 verified: true
 holdings: [link]

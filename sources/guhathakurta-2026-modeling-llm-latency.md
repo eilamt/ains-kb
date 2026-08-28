@@ -10,8 +10,11 @@ publisher:
 doi:
 url: https://inference-sim.github.io/inference-sim/latest/blog/2026/08/06/what-weve-learned-about-modeling-llm-latency/
 lang:
+origin:      own
+project:     blis
+clearance:   public
 
-verified: false
+verified: true
 holdings: [link]
 file:
 

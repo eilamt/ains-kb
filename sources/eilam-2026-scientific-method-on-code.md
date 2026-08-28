@@ -10,6 +10,9 @@ publisher:
 doi:
 url: https://ai-native-systems-research.github.io/ai-native-systems-research/blog/2026/06/24/the-scientific-method-on-code-how-a-hypothesis-driven-ai-learned-what-evolution-couldnt/
 lang:
+origin:      own
+project:     nous
+clearance:   public
 
 verified: true
 holdings: [link]

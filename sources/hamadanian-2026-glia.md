@@ -18,7 +18,10 @@ publisher: ACM
 doi: 10.1145/3786335.3813125
 url:
 lang:
-verified: false
+origin:      external
+project:
+clearance:   public
+verified: true
 holdings:
   - link
 file:

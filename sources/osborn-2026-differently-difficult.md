@@ -10,8 +10,11 @@ publisher:
 doi: 10.1145/3795534
 url:
 lang:
+origin:      external
+project:
+clearance:   public
 
-verified: false
+verified: true
 holdings: [link]
 file:
 

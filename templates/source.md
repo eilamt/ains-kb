@@ -10,6 +10,9 @@ publisher:
 doi:
 url:
 lang:            # omit if English
+origin:          # own | joint | external
+project:         # certus | nous | llm-d | blis | spotlights | kernels | ains — blank for external
+clearance:       # public | internal
 
 verified: false  # true once bibliographic details confirmed against a real record
 holdings: []     # print | kindle | audible | pdf | epub | link | none

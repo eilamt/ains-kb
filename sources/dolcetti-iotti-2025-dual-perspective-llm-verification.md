@@ -10,6 +10,9 @@ publisher:
 doi: https://doi.org/10.3389/fcomp.2025.1655469
 url:
 lang:
+origin:      external
+project:
+clearance:   public
 
 verified: true
 holdings: [pdf]

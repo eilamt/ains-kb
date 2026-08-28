@@ -10,6 +10,9 @@ publisher:
 doi: https://doi.org/10.48550/arXiv.2603.28592
 url: https://arxiv.org/abs/2603.28592
 lang:
+origin:      external
+project:
+clearance:   public
 
 verified: true
 holdings: [link]

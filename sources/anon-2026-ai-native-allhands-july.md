@@ -10,6 +10,9 @@ publisher:
 doi:
 url:
 lang:
+origin:      own
+project:     ains
+clearance:   internal
 
 verified: true
 holdings: [pdf]

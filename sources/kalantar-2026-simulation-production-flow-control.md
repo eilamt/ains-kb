@@ -10,6 +10,9 @@ publisher:
 doi:
 url: https://ai-native-systems-research.github.io/ai-native-systems-research/blog/2026/07/27/from-simulation-to-production-part-ii-soft-reflective-flow-control-for-llm-d/
 lang:
+origin:      own
+project:     llm-d
+clearance:   public
 
 verified: true
 holdings: [link]

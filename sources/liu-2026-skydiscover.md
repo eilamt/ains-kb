@@ -10,8 +10,11 @@ publisher: ACM
 doi: 10.1145/3786335.3813221
 url:
 lang:
+origin:      external
+project:
+clearance:   public
 
-verified: false
+verified: true
 holdings: [link]
 file:
 

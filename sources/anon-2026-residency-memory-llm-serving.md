@@ -10,6 +10,9 @@ publisher: ACM
 doi:
 url:
 lang:
+origin:      joint
+project:     llm-d
+clearance:   public
 
 verified: true
 holdings: [pdf]

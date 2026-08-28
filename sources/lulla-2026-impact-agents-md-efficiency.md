@@ -10,6 +10,9 @@ publisher: ACM
 doi: https://doi.org/10.1145/3805760.3814887
 url: https://dl.acm.org/doi/abs/10.1145/3805760.3814887
 lang:
+origin:      external
+project:
+clearance:   public
 
 verified: true
 holdings: [link]

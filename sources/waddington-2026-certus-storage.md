@@ -10,6 +10,9 @@ publisher:
 doi:
 url: https://ai-native-systems-research.github.io/ai-native-systems-research/blog/2026/06/17/certus-the-end-of-one-size-fits-all-storage/
 lang:
+origin:      own
+project:     certus
+clearance:   public
 
 verified: true
 holdings: [link, pdf]

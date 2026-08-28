@@ -28,7 +28,10 @@ publisher: Google DeepMind
 doi:
 url: https://arxiv.org/abs/2506.13131
 lang:
-verified: false
+origin:      external
+project:
+clearance:   public
+verified: true
 holdings:
   - link
 file:

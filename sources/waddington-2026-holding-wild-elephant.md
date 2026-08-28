@@ -10,6 +10,9 @@ publisher:
 doi:
 url:
 lang:
+origin:      own
+project:     certus
+clearance:   public
 
 verified: true
 holdings: [pdf]

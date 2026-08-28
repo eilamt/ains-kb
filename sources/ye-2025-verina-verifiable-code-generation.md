@@ -10,6 +10,9 @@ publisher:
 doi:
 url: https://proceedings.iclr.cc/paper_files/paper/2026/file/41b8c80f9113b9f8e2e129447221682a-Paper-Conference.pdf
 lang:
+origin:      external
+project:
+clearance:   public
 
 verified: true
 holdings: [link]

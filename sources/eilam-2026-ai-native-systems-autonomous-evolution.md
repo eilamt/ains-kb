@@ -10,6 +10,9 @@ publisher:
 doi:
 url: https://ai-native-systems-research.github.io/ai-native-systems-research/blog/2026/04/21/ai-native-systems-autonomous-evolution-at-machine-speed/
 lang:
+origin:      own
+project:     ains
+clearance:   public
 
 verified: true
 holdings: [link]

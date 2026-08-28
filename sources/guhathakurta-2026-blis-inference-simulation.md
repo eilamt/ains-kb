@@ -10,6 +10,9 @@ publisher:
 doi:
 url: https://inference-sim.github.io/inference-sim/latest/blog/2026/04/09/the-physics-of-high-fidelity-distributed-inference-platform-simulation/
 lang:
+origin:      own
+project:     blis
+clearance:   public
 
 verified: true
 holdings: [link]

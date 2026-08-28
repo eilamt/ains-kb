@@ -10,8 +10,11 @@ publisher:
 doi:
 url:
 lang:
+origin:      own
+project:     ains
+clearance:   public
 
-verified: false
+verified: true
 holdings: [pdf]
 file: six-month-blog-revision.md
 

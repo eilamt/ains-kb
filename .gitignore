@@ -16,3 +16,7 @@ inbox/scans/**
 !inbox/scans/.gitkeep
 
 .DS_Store
+
+# Decks are rebuilt from their generator scripts; keep the scripts, not the output
+missions/*/assets/*.pptx
+missions/*/assets/*.pdf

@@ -10,6 +10,9 @@ publisher:
 doi:
 url: https://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/
 lang:
+origin:      joint
+project:     kernels
+clearance:   public
 
 verified: true
 holdings: [link]

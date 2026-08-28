@@ -10,6 +10,9 @@ publisher: IEEE
 doi: https://doi.org/10.1109/SANER66133.2026.11576668
 url: https://ieeexplore.ieee.org/abstract/document/11576668
 lang:
+origin:      external
+project:
+clearance:   public
 
 verified: true
 holdings: [link]

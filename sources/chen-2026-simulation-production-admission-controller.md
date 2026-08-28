@@ -10,6 +10,9 @@ publisher:
 doi:
 url: https://ai-native-systems-research.github.io/ai-native-systems-research/blog/2026/05/13/from-simulation-to-production-how-an-ai-native-pipeline-discovered-a-better-admission-controller-for-llm-d/
 lang:
+origin:      own
+project:     llm-d
+clearance:   public
 
 verified: true
 holdings: [link]

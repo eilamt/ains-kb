@@ -10,6 +10,9 @@ publisher:
 doi:
 url: https://ai-native-systems-research.github.io/ai-native-systems-research/blog/2026/03/05/why-simulate-before-you-scale/
 lang:
+origin:      own
+project:     blis
+clearance:   public
 
 verified: true
 holdings: [link]
