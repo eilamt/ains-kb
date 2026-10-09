@@ -15,6 +15,11 @@ why modularity is important and what is the state of the field and open question
 
 Empirical studies show a contradiction: increased developer productivity but reduced code quality in the long run. Based on multiple measures such as DORA. There are multiple reasons for this. One key reason is that AI context window is limited, it may make inconsistence changes in different parts of the code because it cant hold the big picture, another reason is that it prioritises expediency, a known issue is hallucination, from a human prespective, the code becomes complex they do not understand it, and they are trusting the AI too much.
 
+We need to CRISP why modularity is important 
+- human aspect - shared mental model 
+- AI aspect: efficiency - context is limited. Re-use components is also good for AI, having an efficient representation of the entire system is needed for AI too.. 
+- Easier to limit blast radius. 
+
 ## Tensions
 
 the AI code which is generated is NOT modular, it increases in complexity. But what we need is modularity for multiple reasons: reduce context, control scope, have readable code, that is easier to continue to evolve and maintain. Modularity is more important, not less important because of AI.
@@ -49,7 +54,7 @@ provenance: raw/claude-exports/2026-08-26-keynote-scoping.md
 
 — `waddington-2026-certus-storage`, §5.2
 
-> ery similar to approach in Certus but goes a step further with the
+> Very similar to approach in Certus but goes a step further with the
 > synchronization service (but specification can be limiting)
 
 — already in `sources/meng-jackson-2025-legible-software` (pre-dates this conversation; no export pointer)

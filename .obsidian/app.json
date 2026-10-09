@@ -1,1 +1,9 @@
-{}
+{
+  "userIgnoreFilters": [
+    "raw/",
+    "templates/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "alwaysUpdateLinks": true
+}
